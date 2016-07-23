@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "799814866579",
+    "firebase_url": "https://fir-guide.firebaseio.com",
+    "project_id": "fir-guide",
+    "storage_bucket": "fir-guide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799814866579:android:1dcea6cf99b10a23",
+        "android_client_info": {
+          "package_name": "com.rishabh.firebaseguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799814866579-bcvtph92lpu2pknjeid10lcr00t17ium.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-B-nywxaqI4ywBJdf53X8oZsxMjm-zOM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
